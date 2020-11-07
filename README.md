@@ -25,6 +25,6 @@ MEET is a telegram bot which can be deployed to a server, heroku or on your loca
 > Note: In one click deploy you will have to re-login every day.
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/death-angel-141/GMeet)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/death-angel-141/Gmeet-Auto-Join.git)
 
 
