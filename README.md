@@ -19,6 +19,13 @@ MEET is a telegram bot which can be deployed to a server, heroku or on your loca
     Close all the opened window and restarts the script
     /restart
 
+```
+Sign-In first locally then store the cookies as pickle file and upload it to Repo (Due to captcha error problem)
+
+```
+
+
+
 ## Deploy to Heroku
 **One Click Deploy**
 
