@@ -1,7 +1,7 @@
 {
 	"name": "Google Meet Bot",
   	"description": "Skip Online Lectures",
-  	"repository": "https://github.com/death-angel-141/Gmeet-Auto.git",
+  	"repository": "https://github.com/death-angel-141/Gmeet-Auto-Join.git",
   	"keywords": ["selenium", "chromedriver", "python"],
   	"env": {
     "BOT_TOKEN": {
